@@ -1,7 +1,6 @@
-# Poirier-et-al_BES_Sep2024
+# Poirier-et-al_RSOS_April2025
 Datafiles and Rcode for publication: 
-
-Dominance effects on urine washing and urinary odor profiles in wild male capuchin monkeys (Cebus imitator)
+Urine washing and urinary odor profiles in relation to dominance rank status in wild male capuchin monkeys (Cebus imitator)
 
 Alice C. Poirier(a,✭), Nelle K. Kulick(a,b), Suheidy Romero Morales(c), Marlen Kücklich(d,e), Brigitte M. Weiß(d,e), Claudia Birkemeyer(f,g,1), Anja Widdig(d,e,g,2), Amanda D. Melin(a,h,i,2), Katharine M. Jack(b,2,✭)
 a Department of Anthropology and Archaeology, University of Calgary, Calgary, Canada
