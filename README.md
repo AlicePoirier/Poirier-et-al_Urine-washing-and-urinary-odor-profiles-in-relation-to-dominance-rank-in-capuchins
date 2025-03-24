@@ -1,4 +1,5 @@
-# Poirier-et-al_RSOS_April2025
+# Poirier-et-al_Urine washing and urinary odor profiles in relation to dominance rank status in wild male capuchin monkeys
+
 Datafiles and Rcode for publication: 
 Urine washing and urinary odor profiles in relation to dominance rank status in wild male capuchin monkeys (Cebus imitator)
 
