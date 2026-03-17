@@ -5,6 +5,7 @@
 
 
 ## Description of the publication ##
+DOI: 10.1098/rsos.250608
 
 Title: 
 Urine washing and urinary odor profiles in relation to dominance rank status in wild male capuchin monkeys (<i>Cebus imitator</i>)
